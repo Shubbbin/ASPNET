@@ -1,6 +1,6 @@
 #ASPNET MVC WebForm Repository Sample#
 
-**ASP.NET MVC 與 ASP.NET WebForm 使用 Simple Injector 切換選擇不同 Repository.**
+**ASP.NET and  MVC 與 ASP.NET WebForm 使用 Simple Injector 切換選擇不同 Repository.**
 
 
 開發環境：Visual Studio 2012
