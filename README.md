@@ -1,4 +1,4 @@
-#ASPNET MVC WebForm Repository Samplee#gfg
+#ASPNET MVC WebForm Repository Samplee#
 
 **ASP.NET and  MVC 與 ASP.NET WebForm 使用 Simple Injector 切換選擇不同 Repositoryf.**
 
